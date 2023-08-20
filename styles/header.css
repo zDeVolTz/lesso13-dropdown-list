@@ -145,4 +145,8 @@ header {
     border-radius: 0 0 10px 10px;
 }
 
+.sub-item:hover {
+    background-color: #024c89;
+}
+
 
