@@ -96,6 +96,10 @@ header {
     margin-left: auto;
 }
 
+.dropdown-item-name:hover .link-title {
+    background-color: #024c89;
+}
+
 .dropdown-sub-item {
     display: none;
 }
